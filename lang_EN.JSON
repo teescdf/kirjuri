@@ -488,7 +488,7 @@
         "dev_location4": "Inventory received",
         "dev_location5": "Inventory deliverable",
         "dev_location6": "In device",
-        "dev_location7": "Returned to owner",
+        "dev_location7": "Returned",
         "dev_location8": "NO RETURN \/ CAM",
         "dev_location9": "NO RETURN \/ OTHER",
         "dev_location10": "Destroyed",
