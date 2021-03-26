@@ -1,0 +1,55 @@
+; Saved settings
+
+[settings]
+report_logo = "views/img/svg/microscope-side-view.svg";
+report_logo_width = "100px";
+title_text = "Kirjuri";
+fadeout = "20000";
+progress_bar_size = "75%";
+progress_bar_style = "progress-bar";
+motd = "";
+notify_after_4_months = "0";
+stalled_case = "-120 days";
+signature_location = "In Teesside";
+organization = "Teesside University Police";
+timezone = "UTC";
+organization_specific_prefix = "TU/2018/";
+phone_number_prefix = "01642-";
+device_action_count = "9";
+lang = "lang_EN";
+mysqldump_location = "/Applications/MAMP/Library/bin/mysqldump";
+show_log = "1";
+show_errors = "1";
+allow_attachments = "1";
+max_attachment_size = "16000000";
+index_table_condensed = "1";
+enable_ldap_authentication = "0";
+ldap_server_address = "ldap://your.ad-domain.server";
+ldap_domain = "ad-domain";
+ldap_search_string = "dc=COMPANY,dc=LOCAL";
+ldap_allowed_netgroups = "";
+
+[inv_units]
+2 = "CID";
+3 = "CIU";
+4 = "DFU";
+5 = "FIB";
+6 = "FIU";
+7 = "MCU";
+8 = "PVP";
+9 = "Response";
+10 = "Roads";
+11 = "SCU";
+12 = "Other";
+
+[statistics_chart_colors]
+1 = "#B7C4E8";
+2 = "#C3B7E8";
+3 = "#DBB7E8";
+4 = "#B7DDE8";
+5 = "#B7E8DB";
+6 = "#B7E8B8";
+7 = "#B7E8D1";
+8 = "#CFE8B7";
+9 = "#E7B8E7";
+10 = "#D2B7E8";
