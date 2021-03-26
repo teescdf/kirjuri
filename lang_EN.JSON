@@ -79,7 +79,7 @@
     "deprecated_tools": "Deprecated tools",
     "description": "Description",
     "device_attached": "Item attached.",
-    "device_description": "Item description",
+    "device_description": "Description",
     "device_detached": "Item detached.",
     "device_document": "Location seized",
     "device_findings": "Exhibit findings",
